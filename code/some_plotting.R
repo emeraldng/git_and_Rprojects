@@ -2,7 +2,7 @@ library(tidyverse)
 library(plotly)
 
 
-ggplotly(gg_iris)
+
 
 
 ##### Hmmm let's see the wages
